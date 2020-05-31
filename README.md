@@ -1,5 +1,8 @@
 # To-do-App
 Todo App
+Additional Features:
+1. Priority Tags while creating Tasks.
+2. Search filtering tasks in real time.
 
 # App screencasts
 
